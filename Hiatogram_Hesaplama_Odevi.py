@@ -1,4 +1,4 @@
-#Abdulkadir Yayan 02105076051
+#Abdulkadir Yayan 02195076051
 
 # Gerekli kütüphaneler içe aktarılır.
 import cv2
